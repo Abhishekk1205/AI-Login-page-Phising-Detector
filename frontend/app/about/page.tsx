@@ -78,7 +78,7 @@ export default function AboutPage() {
               */}
               <div className="flex-1 space-y-4 text-center md:text-left w-full">
                 <div>
-                  <h3 className="text-3xl font-bold tracking-wide text-cyber-text">Prem</h3>
+                  <h3 className="text-3xl font-bold tracking-wide text-cyber-text">Muskan Kumari</h3>
                   <div className="flex flex-wrap items-center justify-center md:justify-start gap-2 mt-2">
                     <span className="inline-flex items-center gap-1 px-3 py-1 rounded-full bg-cyber-green/10 text-cyber-green text-xs font-mono border border-cyber-green/20">
                       <GraduationCap size={12} /> B.Tech CSE Student
